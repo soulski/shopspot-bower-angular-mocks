@@ -1,0 +1,12 @@
+{
+  "name": "shopspot-bower-angular-mocks",
+  "version": "1.0.0",
+  "main": "angular-mocks.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
